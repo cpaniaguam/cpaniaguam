@@ -5,6 +5,9 @@ Current role: Senior Data Scientist at the [Center for Computation and Visualiza
 Previous role: Assistant Professor of Mathematical Scieces @ [Salve Regina University](https://salve.edu/).
 
 ### Recent Projects
+- [natquiz.us](https://natquiz.us)
+  - A US naturalization test preparation website based on the Python package `natquiz` (see below)
+
 - [natquiz](https://github.com/cpaniaguam/natquiz)
   - A US naturalization test quiz app in Python
 
